@@ -1,0 +1,64 @@
+body{
+    margin:0;
+}
+.header{
+    color:white;
+    text-align:center;
+    font-style: italic;
+    padding:1rem;
+    background-color:black;
+    margin:0px;
+}
+
+.in-textarea{
+    max-width: 80%;
+    display: block;
+    margin: 2rem auto;
+    height:10rem;
+    width: 30rem;
+    padding:1rem;
+}
+.out-textarea{
+    max-width: 80%;
+    display: block;
+    margin: 2rem auto;
+    height:6rem;
+    width:30rem;
+    padding:1rem;
+}
+p{
+    margin-left:52%;
+}
+#btn-translate{
+    padding:1rem;
+    background-color:black;
+    font-size:1rem;
+    max-width:80%;
+    color: white ;
+}
+.btn-container{
+   text-align:center;
+}
+.img{
+    max-width: 80%;
+    height:70vh;
+    width:30rem;
+}
+.child1-div{
+    float: left;
+   text-align: center;
+  
+}
+footer{
+    text-align:center;
+    background-color:black;
+    padding:1rem;
+    font-style: italic;
+    color:white;
+}
+.footer-content{
+    max-width: 80%;
+    text-align: center;
+    width:35rem;
+    margin:auto;
+}
